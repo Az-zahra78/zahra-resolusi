@@ -10,3 +10,5 @@ RENCANA KOLABORASI PROJECT
 - DataBase
   * DBeaver
 - Java Script
+  * vue
+  * react
