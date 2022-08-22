@@ -3,12 +3,10 @@ RENCANA KOLABORASI PROJECT
 - GitHub dan Git
   * video tutorial sandika galih
   * materi GitHub praxis academy
-- Flask
 - Python
-  * OOP
-  * Algoritma
+- Java script
+  * Angular
+  * React
 - DataBase
-  * DBeaver
-- Java Script
-  * vue
-  * react
+
+
