@@ -5,4 +5,8 @@ RENCANA KOLABORASI PROJECT
   * materi GitHub praxis academy
 - Flask
 - Python
+  * OOP
+  * Algoritma
 - DataBase
+  * DBeaver
+- Java Script
