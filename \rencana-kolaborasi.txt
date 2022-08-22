@@ -1,0 +1,7 @@
+RENCANA KOLABORASI PROJECT
+
+- GitHub dan Git
+  * video tutorial sandika galih
+  * materi GitHub praxis academy
+- Python
+- DataBase
